@@ -23,66 +23,66 @@
 <td>This page should contain h1,h2 heading tags.</td>
 </tr>
 <tr>
-<th>Meta Keywords</th>
+<th><font color="green" size="5">Meta Keywords</font></th>
 <td>Found</td>
 <td>200</td>
 <td>Meta keywords not Found</td>
 <td>Google Does not accept meta keywords any more.</td>
 </tr>
 <tr>
-<th>Underscores in Links Test</th>
+<th><font color="red" size="5">Underscores in Links Test</font></th>
 <td>Not Found</td>
 <td>404</td>
 <td>there were no underscores found in URL</td>
 </tr>
 <tr>
-<th>SEO Friendly URL Test</th>
+<th><font color="green" size="5">SEO Friendly URL Test</font></th>
 <td>Not good</td>
 <td>200</td>
 <td>Warning! 25 internal urls found that are not seo friendly.</td>
 <td>An SEO friendly url must caontain only lower alphabets, numbers, slashes(/), dash(-). Underscores, upercase Alphabets and specialchars (e-g: & ? %) are nto seo friendly.</td>
 </tr>
 <tr>
-<th>Image Alt Test</th>
+<th><font color="red" size="5">Image Alt Test</font></th>
 <td>Not good</td>
 <td>200</td>
 <td>Your webpage has 68 'img' tags and 53 of them missing the required 'alt' attribute.</td>
 </tr>
 <tr>
-<th>Domain Authority</th>
+<th><font color="green" size="5">Domain Authority</font></th>
 <td>Not Found</td>
 <td>404</td>
 <td> Domain Authority of your website is only 0.</td>
 <td>It is good to have domain authority more than 20.</td>
 </tr>
 <tr>
-<th>Page Authority</th>
+<th><font color="red" size="5">Page Authority</font></th>
 <td>Not Found</td>
 <td>404</td>
 <td>Page Authority of your website is only 0</td>. 
 <td>It is good to have page authority more than 20.</td>
 </tr>
 <tr>
-<th>HTML Page Size Test</th>
+<th><font color="green" size="5">HTML Page Size Test</font></th>
 <td>Not good</td>
 <td>200</td>
 <td>Your HTML size is 109.35 Kb and this is above the average web page size of 33 Kb.</td> 
 <td>This leads to a slower page loading time than average.</td>
 </tr>
 <tr>
-<th>HTML Compression/GZIP Test</th>
+<th><font color="red" size="5">HTML Compression/GZIP Test</font></th>
 <td>Not good</td>
 <td>200</td>
 <td>Your web page is not using html compression.</td>
 <td>It is recommended to use html compression e-g: gzip compression</td>
 </tr>
 <tr>
-<th>SEO Score</th>
+<th><font color="green" size="5">SEO Score</font></th>
 <td>56</td>
 <td>TO improve Seo Score the site should be Seo friendly</td>
 </tr>
 <tr>
-<th>SEO Grade</th>
+<th><font color="red" size="5">SEO Grade</font></th>
 <td><img src="http://smallseotools.com/imgs/badge-bronze.png" alt="seo checker"/></td>
 </tr>
 <th colspan="6">TO GO TO UIDAI ADHAAR LINK CLICK :www.uidai.gov.in </th>
