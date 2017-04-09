@@ -85,5 +85,6 @@
 <th>SEO Grade</th>
 <td><img src="http://smallseotools.com/imgs/badge-bronze.png" alt="seo checker"/></td>
 </tr>
+<th colspan="6">TO GO TO UIDAI ADHAAR LINK CLICK :www.uidai.gov.in </th>
 </table>
 </html>
