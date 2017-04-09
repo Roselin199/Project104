@@ -2,7 +2,7 @@
 <head><marquee><font color="green"><h1>SEO REPORT</h1></font></marquee></head>
 <table>
 <tr>
-<th colspan="6"><b><u><i>UIDAI ADHAAR WEBISTE</i></u></b></th>
+<th colspan="6"><b><u><i>UIDAI ADHAAR WEBSITE</i></u></b></th>
 </tr>
 <tr>
 <th><b>TITLE</b></th><th><b>STATUS</b></th><th><b>STATUS CODE</b></th><th><b>REQUIREMENTS</b></th><th><b>SUGGESTION</b></th>
