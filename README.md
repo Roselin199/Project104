@@ -5,7 +5,7 @@
 <th colspan="6"><font color="brown"><b><u><i>UIDAI ADHAAR WEBSITE</i></u></b></font></th>
 </tr>
 <tr>
-<th><b>TITLE</b></th><th><b>STATUS</b></th><th><b>REQUIREMENTS</b></th><th><b>SUGGESTION</b></th>
+<th><b>Sr. No.</b></th><th><b>TITLE</b></th><th><b>STATUS</b></th><th><b>REQUIREMENTS</b></th><th><b>SUGGESTION</b></th>
 </tr>
 <tr>
 <td><b>1.</b></td>
@@ -145,17 +145,17 @@
 </tr>
 <tr>
 <td><b>19.</b></td>
-<th><font color="red" size="3"></font></th>
-<td></td>
-<td></td>
-<td></td>
+<th><font color="red" size="3">Noindex Tag Checker</font></th>
+<td>Not Found</td>
+<td>Your webpage does not use the noindex meta tag.</td>
+<td>This means that your webpage will be read and indexed by search engines.</td>
 </tr>
 <tr>
-<td><b></b></td>
-<th><font color="green" size="3"></font></th>
-<td></td>
-<td></td>
-<td></td>
+<td><b>20</b></td>
+<th><font color="green" size="3">Nofollow Tag Checker</font></th>
+<td>Not Found</td>
+<td>Your webpage does not use the nofollow meta tag.</td>
+<td> This means that search engins will crawl all links from your webpage.</td>
 </tr>
 </table>
 
@@ -165,14 +165,14 @@
 </tr>
 <tr>
 <th><font color="green" size="3">SEO Score</font></th>
-<td>56</td>
+<td>65</td>
 </tr>
 <tr>
 <th><font color="red" size="3">Email</font></th>
 <td>alok.shukla@uidai.gov.in</td>
 </tr>
 <tr>
-<th><font color="red" size="3">Website Title</font></th>
+<th><font color="green" size="3">Website Title</font></th>
 <td>UIDAI - Official Website	</td>
 </tr>
 <tr>
@@ -180,7 +180,7 @@
 <td>0 out of 10</td>
 </tr>
 <tr>
-<th><font color="red" size="3">Created On</font></th>
+<th><font color="green" size="3">Created On</font></th>
 <td>29-02-2009</td>
 </tr>
 <tr>
@@ -188,12 +188,12 @@
 <td>09-03-2016</td>
 </tr>
 <tr>
-<th><font color="red" size="3">Expires On</font></th>
+<th><font color="green" size="3">Expires On</font></th>
 <td>29-06-2018</td>
 </tr>
 <tr>
 <th><font color="red" size="3">SEO Grade</font></th>
-<td><img src="http://smallseotools.com/imgs/badge-bronze.png" alt="seo checker"/></td>
+<td><img src="http://smallseotools.com/imgs/badge-silver-xs.png" alt="seo checker"></td>
 </tr>
 <th colspan="6">FOLLOWING IS THE UIDAI WEBSITE : www.uidai.gov.in</th>
 </table>
