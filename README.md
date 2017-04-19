@@ -9,7 +9,7 @@
 </tr>
 <tr>
 <td><b>1.</b></td>
-<th><font color="green" size="5">Meta Description</font></th>
+<th><font color="green" size="3">Meta Description</font></th>
 <td>Not Found</td>
 <td>The meta description length of your page is 0 characters. Most search engines will truncate meta descriptions to 160 characters.</td>
 <td>In order to familiarise and support Government Agencies UIDAI has conducted a series of workshop on Aadhaar Seeding and Authentication Services.To start the process, please enter your Aadhaar number below. Enter your Aadhaar number: Text to Identify Text Verification (Required). 
@@ -17,34 +17,34 @@
 </tr>
 <tr>
 <td><b>2.</b></td>
-<th><font color="red" size="5">h1  Headings Status</font></th>
+<th><font color="red" size="3">h1  Headings Status</font></th>
 <td>Not Available</td>
 <td>No H1 headings Found, it highly effects your page SEO.</td>
 <td>This page should contain h1,h2 heading tags.</td>
 </tr>
 <tr>
 <td><b>3.</b></td>
-<th><font color="green" size="5">Meta Keywords</font></th>
+<th><font color="green" size="3">Meta Keywords</font></th>
 <td>Found</td>
 <td>Meta keywords not Found</td>
 <td>Google Does not accept meta keywords any more.</td>
 </tr>
 <tr>
 <td><b>4.</b></td>
-<th><font color="red" size="5">Underscores in Links Test</font></th>
+<th><font color="red" size="3">Underscores in Links Test</font></th>
 <td>Not Found</td>
 <td>there were no underscores found in URL</td>
 </tr>
 <tr>
 <td><b></b></td>
-<th><font color="green" size="5">SEO Friendly URL Test</font></th>
+<th><font color="green" size="3">SEO Friendly URL Test</font></th>
 <td>Not good</td>
 <td>Warning! 25 internal urls found that are not seo friendly.</td>
 <td>An SEO friendly url must caontain only lower alphabets, numbers, slashes(/), dash(-). Underscores, upercase Alphabets and specialchars (e-g: & ? %) are nto seo friendly.</td>
 </tr>
 <tr>
 <td><b>5.</b></td>
-<th><font color="red" size="5">Image Alt Test</font></th>
+<th><font color="red" size="3">Image Alt Test</font></th>
 <td>Not good</td>
 <td>Your webpage has 68 'img' tags and 53 of them missing the required 'alt' attribute.</td>
 </tr>
